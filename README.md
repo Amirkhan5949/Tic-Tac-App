@@ -18,6 +18,19 @@ App Features :
 * Start playing free Tic Tac game on your Android device and let the fun begins!
 
 
+ ## Contributing
+
+Please fork this repository and contribute back using
+[pull requests](https://github.com/Amirkhan5949/ChatApp/pulls).
+
+Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
+but will be thoroughly reviewed .
+
+### Contact - Let's become friend
+ - [Github](https://github.com/Amirkhan5949)
+- [Linkedin](https://www.linkedin.com/in/aamir-khan-710185197/)
+
+Youtube Video Link :-  https://youtu.be/Do_8cIiPids
 
 
 
