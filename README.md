@@ -3,9 +3,9 @@ Tic Tac Toe is free classic puzzle game also known as
 "noughts and crosses or sometimes X and O"
 
 
-# Demo of Movie Hub App 
+# Demo of Tic-Tac-App 
 
- <a style="margin:20;padding:0" href="https://youtu.be/Do_8cIiPids">
+ <a style="margin:20;padding:0" href="https://www.youtube.com/watch?v=efdGy3WSy-8&t=17s">
   <img src="https://raw.githubusercontent.com/mayankkasera/Movie-Stack/master/media/youtube.png" width="200" >
  </a>
 
