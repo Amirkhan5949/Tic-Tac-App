@@ -2,6 +2,11 @@
 Tic Tac Toe is free classic puzzle game also known as
 "noughts and crosses or sometimes X and O"
 
+
+# Demo of Movie Hub App 
+
+  <img width="200px"   src="https://github.com/Amirkhan5949/Tic-Tac-App/blob/master/gif/gif.gif"></br>
+
 App Features :
 * Tic Tac Toe is an easy but nonetheless exciting game for people of all ages
 
@@ -16,6 +21,8 @@ App Features :
   teaching the concepts of good sportsmanship and the branch of artificial intelligence.
   
 * Start playing free Tic Tac game on your Android device and let the fun begins!
+
+
 
 
  ## Contributing
