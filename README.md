@@ -6,6 +6,7 @@ Tic Tac Toe is free classic puzzle game also known as
 # Demo of Tic-Tac-App 
 
  <a style="margin:20;padding:0" href="https://www.youtube.com/watch?v=efdGy3WSy-8&t=17s">
+  <img src="https://raw.githubusercontent.com/mayankkasera/Movie-Stack/master/media/youtube.png" width="200" >
   </a>
 
   <img width="200px"   src="https://github.com/Amirkhan5949/Tic-Tac-App/blob/master/gif/gif.gif"></br>
